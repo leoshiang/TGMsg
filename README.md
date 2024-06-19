@@ -12,7 +12,8 @@ TGMsg -c chatid -t token -m message
 ```text
 -c  chatid
 -t  token
--m  message 
+-m  message
+-V  version 
 ```
 
 ### 範例

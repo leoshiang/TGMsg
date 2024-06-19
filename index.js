@@ -2,6 +2,7 @@ const { program } = require('commander')
 
 program
     .name('TGMsg')
+    .version('TGMsg v0.1.6')
     .description('CLI to send telegram message.')
     .option('-c, --chatid <number>', 'Chat ID')
     .option('-t, --token <string>', 'Token')
