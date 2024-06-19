@@ -1,0 +1,15 @@
+{
+  "name": "telegram-messenger",
+  "homepage": "https://github.com/leoshiang/SysInfo#readme",
+  "version": "1.0.0",
+  "description": "'CLI to send telegram message.",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd VerMgr && call release && cd ..\\"
+  },
+  "author": "Leo Shiang",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
